@@ -1,4 +1,3 @@
-<img width="1129" height="193" alt="image" src="https://github.com/user-attachments/assets/ff85c02b-f99e-4468-b017-d9409378f5e5" /># app-dev
 my first repository
 # My favorite movie series
 ## Series Title: The Avengers
